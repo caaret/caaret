@@ -2,13 +2,13 @@
 
 ### 🛡️ Cyber Security Student & Python Developer
 
-14 yaşından beri sistem zafiyetlerini anlama, sömürme ve bu süreçleri otomatize edecek araçlar geliştirme üzerine çalışıyorum. Şu an lisede Ağ ve Siber Güvenlik üzerine eğitim alarak bu tutkumu profesyonel bir kariyere dönüştürüyorum. 
+Bir kaç yıldır sadece python öğrenerek kendimi pythonda gelişmeye yönelttim ve bu geçen seneden itibaren Python ile Siber Güvenlik araçları geliştirmeye çalışıyorum 
 
 ---
 
 ### 🔍 Focus Areas
-- **Tool Development:** Mevcut siber güvenlik araçlarını analiz edip, mantığını kavrayarak Python ile kendi versiyonlarımı geliştiriyorum.
-- **System Security:** Zafiyet tespiti (finding), sömürme (exploiting) ve sistem sıkılaştırma (hardening).
+- **Tool Development:** Mevcut siber güvenlik araçlarını analiz edip, Python ile kendi versiyonlarımı geliştiriyorum.
+- **System Security:**  Kodlarım Zafiyet tespiti (finding), sömürme (exploiting üzerinedir.
 - **Data Management:** Araçlarımda veri depolama için SQLite3 entegrasyonu.
 - **Linux Environment:** Linux sistem yönetimi ve temel komut dizileri üzerinde hakimiyet.
 
@@ -32,4 +32,4 @@
 - **Discord:** `tpricee__`
 - **Email:** [muhammetbugraaa61@proton.me](mailto:muhammetbugraaa61@proton.me)
 
-*"Disiplin ve merak, en güçlü exploit'tir."*
+
