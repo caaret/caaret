@@ -2,7 +2,7 @@
 
 ### 🛡️ Cyber Security Student & Python Developer
 
-Bir kaç yıldır sadece python öğrenerek kendimi pythonda gelişmeye yönelttim ve bu geçen seneden itibaren Python ile Siber Güvenlik araçları geliştirmeye çalışıyorum 
+Bir kaç yıldır sadece python öğrenerek kendimi pythonda gelişmeye yönelttim ve geçen seneden itibaren Python ile Siber Güvenlik araçları geliştirmeye çalışıyorum 
 
 ---
 
