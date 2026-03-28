@@ -31,4 +31,3 @@ Bir kaç yıldır sadece python öğrenerek kendimi pythonda gelişmeye yöneltt
 ### 📫 Connect with me
 - **Discord:** `tpricee__`
 - **Email:** <muhammetbugraaa61@proton.me>
-- 
