@@ -1,14 +1,14 @@
-# Hi there, I'm caaret 👋
+# Ben caaret👋
 
-### 🛡️ Cyber Security Student & Python Developer
+### 🛡️ Cyber Security & Python Developer
 
 Bir kaç yıldır sadece python öğrenerek kendimi pythonda gelişmeye yönelttim ve geçen seneden itibaren Python ile Siber Güvenlik araçları geliştirmeye çalışıyorum 
 
 ---
 
 ### 🔍 Focus Areas
-- **Tool Development:** Mevcut siber güvenlik araçlarını analiz edip, Python ile kendi versiyonlarımı geliştiriyorum.
-- **System Security:**  Kodlarım Zafiyet tespiti (finding), sömürme (exploiting üzerinedir.
+- **Arac Gelistirme:** Mevcut siber güvenlik araçlarını analiz edip, Python ile kendi versiyonlarımı geliştiriyorum.
+- **System Securit:**  Kodlarım Zafiyet tespiti (finding) ve yararlanma üzerinedir.
 - **Data Management:** Araçlarımda veri depolama için SQLite3 entegrasyonu.
 - **Linux Environment:** Linux sistem yönetimi ve temel komut dizileri üzerinde hakimiyet.
 
@@ -30,6 +30,6 @@ Bir kaç yıldır sadece python öğrenerek kendimi pythonda gelişmeye yöneltt
 
 ### 📫 Connect with me
 - **Discord:** `tpricee__`
-- **Email:** <muhammetbugraaa61@proton.me>
+- **Email:** <mami63655@gmail.com>
  
 
